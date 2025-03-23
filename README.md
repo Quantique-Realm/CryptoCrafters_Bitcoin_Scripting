@@ -7,7 +7,7 @@
 - **Team Members:**
   - Abhiraj Kumar(mc230041001)
   - Harsh Bhati(mems230005017)
-  - Bhalchandra Kalyani Buradkar(cse230001017)
+  - Buradkar Kalyani Bhalchandra(cse230001017)
 
 ---
 
